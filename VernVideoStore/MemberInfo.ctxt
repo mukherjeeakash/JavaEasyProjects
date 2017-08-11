@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MemberInfo
+comment1.params=
+comment1.target=MemberInfo()
+comment2.params=
+comment2.target=void\ enterInfo()
+comment3.params=
+comment3.target=java.lang.String\ printMembers()
+comment4.params=id
+comment4.target=Member\ getMember(int)
+comment5.params=name
+comment5.target=Member\ getMember(java.lang.String)
+comment6.params=n
+comment6.target=int\ addMember(java.lang.String)
+comment7.params=id
+comment7.target=boolean\ deleteMember(int)
+comment8.params=
+comment8.target=void\ save()
+numComments=9

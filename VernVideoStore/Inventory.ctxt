@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Inventory
+comment1.params=
+comment1.target=Inventory()
+comment2.params=
+comment2.target=void\ fillStock()
+comment3.params=id
+comment3.target=Movie\ getMovie(int)
+comment4.params=name\ stock\ rating
+comment4.target=boolean\ addMovie(java.lang.String,\ int,\ java.lang.String)
+comment5.params=name
+comment5.target=boolean\ deleteMovie(java.lang.String)
+comment6.params=
+comment6.target=void\ save()
+comment7.params=entry
+comment7.target=java.lang.String\ search(java.lang.String)
+comment8.params=entry\ rating
+comment8.target=java.lang.String\ search(java.lang.String,\ java.lang.String)
+numComments=9

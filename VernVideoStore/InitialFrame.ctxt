@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=InitialFrame
+comment1.params=
+comment1.target=void\ createAndShowGUI()
+comment2.params=pane\ vM
+comment2.target=void\ addComponentToPane(java.awt.Container,\ VernMain)
+comment3.params=event
+comment3.target=void\ itemStateChanged(java.awt.event.ItemEvent)
+numComments=4

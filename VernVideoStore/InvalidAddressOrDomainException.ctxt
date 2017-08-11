@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=InvalidAddressOrDomainException
+comment1.params=
+comment1.target=InvalidAddressOrDomainException()
+comment2.params=message
+comment2.target=InvalidAddressOrDomainException(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getMessage()
+numComments=4

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LoginPage
+comment1.params=u\ p
+comment1.target=LoginPage(java.lang.String,\ java.lang.String)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=boolean\ login()
+comment4.params=
+comment4.target=void\ failed()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=f
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=
+comment9.target=void\ success()
+numComments=10

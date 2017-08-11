@@ -1,0 +1,23 @@
+Akash Mukherjee
+1000
+2
+1 4 PG	Star Wars Episode I: The Phantom Menace
+2 3 PG13	The Sixth Sense
+1
+150 4 R	Amistad
+
+Anish Mukherjee
+1001
+5
+67 3 G	The Rugrats Movie
+68 4 R	Shakespeare in Love
+69 2 PG13	The Mask of Zorro
+760 2 PG	Ladyhawke
+760 1 PG	Ladyhawke
+5
+213 1 R	Dangerous Minds
+15 3 R	Double Jeopardy
+5 2 R	The Matrix
+70 2 PG	Antz
+761 5 R	The Wonderful Mr. Harris
+

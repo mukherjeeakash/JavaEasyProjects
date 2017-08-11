@@ -1,0 +1,163 @@
+import java.awt.*;
+import java.awt.event.*;
+import java.io.*;
+import javax.swing.*;
+import static javax.swing.WindowConstants.DISPOSE_ON_CLOSE;
+
+public class LoginPage
+{
+     private JTextField user;
+     private JTextField pass;
+     private JFrame frame;
+     private JPanel pane1;
+     private JPanel pane2;
+     private JPanel pane3;
+     private JPanel pane4;
+     private String username;
+     private String password;
+     private final String userTrue;
+     private final String passTrue;
+     private final String title = "Vern's Video Store";
+
+     public LoginPage(final String u, final String p) throws IOException, FileNotFoundException
+     {
+          frame = new JFrame(title);
+          pane1 = new JPanel();
+          pane2 = new JPanel();
+          pane3 = new JPanel();
+          pane4 = new JPanel();
+          user = new JTextField("Username", 25);
+          pass = new JTextField("Password", 25);
+          JButton login = new JButton("Login");
+          userTrue=u;
+          passTrue=p;
+          
+          pane1.add(user);
+          pane2.add(pass);
+          pane3.add(login);
+          pane4.add(new JLabel(new ImageIcon("//Volumes//CONNOR P//Vern's Logo.png")));
+          
+          JPanel big = new JPanel();
+          big.setLayout(new BorderLayout());
+          big.add(pane1, BorderLayout.WEST);
+          big.add(pane2, BorderLayout.EAST);
+          big.add(pane3, BorderLayout.SOUTH);
+          big.add(pane4, BorderLayout.NORTH);
+          
+          frame.add(big);
+          frame.pack();
+          frame.setSize(650,275);
+          frame.setResizable(false);
+          frame.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
+          frame.setVisible(true);
+          
+          login.addActionListener(new ActionListener()
+          {
+              public void actionPerformed(ActionEvent e)
+              {
+                  username = user.getText();
+                  password = pass.getText();
+                  frame.setVisible(false);
+                  try
+                  {
+                      if(login())
+                          success();
+                      else
+                          failed();
+                  }
+                  catch(Exception ex)
+                  {
+                      JOptionPane.showMessageDialog(null, ex.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
+                  }
+              }
+          });
+     }
+     public boolean login()
+     {
+          if(username.equals(userTrue) && password.equals(passTrue))
+             return true;
+          else
+            return false;
+     }
+     public void failed() throws IOException, FileNotFoundException
+     {
+         try
+         {
+             final JFrame error = new JFrame(title);
+             JPanel errorP = new JPanel();
+             JLabel wrong = new JLabel("Invalid Login Attempt");
+             JButton address = new JButton("Email Login Information");
+             JButton again = new JButton("Attempt to Login Again");
+              
+             address.addActionListener(new ActionListener()
+             {
+                 public void actionPerformed(ActionEvent e)
+                 {
+                     error.dispose();
+                     final JFrame send = new JFrame("Send Email");  
+                     JPanel pane = new JPanel();
+                     final JTextField enter = new JTextField("Enter Email Address", 25);
+                     JButton text = new JButton("Send Email");
+                     pane.add(enter);
+                     pane.add(text);
+                     text.addActionListener(new ActionListener()
+                     {
+                         public void actionPerformed(ActionEvent e)
+                         {
+                             String address = enter.getText();
+                             SendEmail mail = new SendEmail(address, userTrue, passTrue);
+                             String msg = mail.result();
+                             final ImageIcon check = new ImageIcon("//Volumes//CONNOR P//Vern's Logo.png");
+                             if(msg.equals("Email Successfully Sent"))
+                                JOptionPane.showMessageDialog(null, msg, "", JOptionPane.INFORMATION_MESSAGE, check);
+                             else
+                                JOptionPane.showMessageDialog(null, msg, "Error", JOptionPane.ERROR_MESSAGE);
+                             send.dispose();
+                             frame.setVisible(true);
+                         }
+                     });
+                     send.add(pane); 
+                     send.setResizable(false);
+                     send.pack();
+                     send.setSize(350,250);
+                     send.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
+                     send.setVisible(true);
+                 }
+             });
+              
+             again.addActionListener(new ActionListener()
+             {
+                 public void actionPerformed(ActionEvent f)
+                 {
+                     try
+                     {
+                         LoginPage page = new LoginPage(userTrue, passTrue);
+                         error.dispose();
+                     }
+                     catch(Exception ex)
+                     {
+                         JOptionPane.showMessageDialog(null, ex.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
+                     }
+                 }
+             });
+          
+             errorP.add(wrong);
+             errorP.add(address);
+             errorP.add(again);
+             error.add(errorP);            
+             error.setResizable(false);
+             error.setSize(250,200);
+             error.pack();
+             error.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
+             error.setVisible(true);    
+         }
+         catch(Exception ex)
+         {
+             JOptionPane.showMessageDialog(null, ex.getMessage(), "Error", JOptionPane.ERROR_MESSAGE);
+         }
+     }
+     public void success() throws IOException, FileNotFoundException
+     {
+         EnterStore store = new EnterStore();
+     }
+} 

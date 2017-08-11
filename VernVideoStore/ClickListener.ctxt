@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ClickListener
+comment1.params=input\ f\ n
+comment1.target=ClickListener(java.lang.String,\ javax.swing.JFrame,\ VernMain)
+comment2.params=input\ n
+comment2.target=ClickListener(java.lang.String,\ VernMain)
+comment3.params=event
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

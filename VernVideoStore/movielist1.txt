@@ -1,0 +1,750 @@
+1 4 PG         Star Wars Episode I: The Phantom Menace     
+2 3 PG13       The Sixth Sense 
+3 2 G          Toy Story 2 
+4 1 PG13       Austin Powers: The Spy Who Shagged Me 
+5 2 R          The Matrix
+6 1 G          Tarzan 
+7 3 PG13       Big Daddy 
+8 2 PG13       The Mummy 
+9 3 PG         Runaway Bride 
+10 2 R         The Blair Witch Project 
+11 3 PG        Stuart Little 
+12 2 R         The Green Mile 
+13 2 R         American Beauty 
+14 2 PG13      The World Is Not Enough 
+15 3 R         Double Jeopardy 
+16 3 PG13      Notting Hill 
+17 4 PG13      Wild Wild West 
+18 3 PG13      Analyze This 
+19 2 R         The General's Daughter
+20 3 R         American Pie 
+21 2 R         Sleepy Hollow
+22 3 PG        Inspector Gadget 
+23 2 R         The Talented Mr. Ripley 
+24 4 PG13      The Haunting 
+25 2 PG13      Entrapment 
+26 5 G         Pokemon: The First Movie
+27 3 R         Payback 
+28 5 R         Any Given Sunday
+29 4 R         Deep Blue Sea 
+30 3 PG13      Galaxy Quest 
+31 2 R         The Thomas Crown Affair 
+32 4 PG13      Blue Streak 
+33 3 R         End of Days 
+34 2 PG13      Bowfinger 
+35 4 R         Deuce Bigalow: Male Gigolo
+36 2 R         The Bone Collector 
+37 3 PG13      Life 
+38 5 PG13      She's All That 
+39 3 R         Three Kings 
+40 4 PG        Bicentennial Man 
+41 3 PG13      The Cider House Rules 
+42 2 R         Eyes Wide Shut 
+43 3 PG13      Never Been Kissed 
+44 2 PG13      Forces of Nature 
+45 2 R         Varsity Blues 
+46 1 PG13      Message in a Bottle 
+47 2 R         South Park: Bigger, Longer & Uncut
+48 3 R         The Hurricane
+49 2 R         Stigmata 
+50 2 R         House on Haunted Hill 
+51 3 R         Saving Private Ryan 
+52 2 PG13      Armageddon 
+53 3 R         There's Something About Mary 
+54 3 G         A Bug's Life 
+55 3 PG13      The Waterboy 
+56 1 PG13      Dr. Dolittle 
+57 3 PG13      Rush Hour 
+58 1 PG13      Deep Impact 
+59 1 PG13      Godzilla 
+60 2 PG13      Patch Adams 
+61 2 R         Lethal Weapon 4
+62 2 PG        The Truman Show
+63 2 G         Mulan 
+64 1 PG        You've Got Mail 
+65 3 R         Enemy of the State 
+66 2 G         The Prince of Egypt 
+67 3 G         The Rugrats Movie
+68 4 R         Shakespeare in Love
+69 2 PG13      The Mask of Zorro
+70 1 PG        Antz
+71 3 PG13      Stepmom
+72 2 PG13      The X-Files
+73 2 PG13      The Wedding Singer
+74 1 PG13      City of Angels
+75 1 PG        Everest
+76 2 PG13      The Horse Whisperer
+77 2 PG13      Six Days, Seven Nights
+78 1 PG        Star Trek: Insurrection
+79 3 R         Blade
+80 1 PG        Lost in Space
+81 2 R         A Perfect Murder
+82 3 PG        The Parent Trap
+83 1 PG13      Ever After
+84 2 PG13      Hope Floats
+85 4 R         Life Is Beautiful
+86 2 PG13      U.S. Marshals
+87 2 PG13      The Man in the Iron Mask
+88 3 R         A Civil Action
+89 2 R         Snake Eyes
+90 4 PG13      What Dreams May Come
+91 2 PG13      Small Soldiers
+92 1 R         Halloween H2O: Twenty Years Later
+93 2 PG        Mighty Joe Young
+94 2 PG        Practical Magic
+95 2 R         Meet Joe Black
+96 3 R         The Negotiator
+97 2 R         Ronin
+98 3 R         The Siege
+99 2 PG13      Pleasantville
+100 1 R        The Faculty
+101 3 PG13     Titanic
+102 2 PG13     Men in Black
+103 2 PG13     The Lost World (Collector's Edition) Dolby 5.1
+104 1 PG13     Liar Liar
+105 3 R        Air Force One
+106 3 R        As Good as It Gets
+107 3 R        Good Will Hunting
+108 4 PG       Star Wars: Special Edition
+109 2 PG13     My Best Friend's Wedding
+110 2 PG13     Tomorrow Never Dies
+111 2 R        Face/Off
+112 1 PG13     Batman & Robin
+113 2 PG       George of the Jungle
+114 1 R        Scream 2
+115 2 R        Con Air
+116 2 PG       Contact
+117 3 G        Hercules
+118 4 PG       Flubber
+119 3 R        Conspiracy Theory
+120 2 R        I Know What You Did Last Summer
+121 5 PG       Empire Strikes Back: Special Edition
+122 2 PG13     Dante's Peak
+123 1 PG13     Anaconda
+124 3 R        L.A. Confidential
+125 2 PG13     The Fifth Element
+126 1 PG13     In & Out
+127 1 PG13     The Saint
+128 4 PG13     The Devil's Advocate
+129 2 R        Kiss the Girls
+130 2 PG       Mouse Hunt
+131 3 PG       Jungle 2 Jungle
+132 3 G        Anastasia
+133 3 R        The Jackal
+134 2 PG13     Spawn
+135 1 R        Starship Troopers
+136 4 PG13     Austin Powers: International Man of Mystery
+137 3 R        Breakdown
+138 3 R        Absolute Power
+139 2 R        G.I. Jane
+140 3 R        The Game
+141 2 PG13     Speed 2: Cruise Control
+142 1 R        Alien Resurrection
+143 1 PG13     Volcano
+144 2 R        The Full Monty
+145 2 PG13     The Rainmaker
+146 5 PG       Return of the Jedi: Special Edition
+147 2 PG13     Bean
+148 2 R        Cop Land
+149 3 R        Nothing to Lose
+150 4 R        Amistad
+151 4 PG13     Independence Day
+152 2 PG13     Twister
+153 4 PG13     Mission: Impossible
+154 4 R        Jerry Maguire
+155 3 R        Ransom
+156 2 PG       101 Dalmatians
+157 2 R        The Rock
+158 2 PG13     The Nutty Professor
+159 2 R        The Birdcage
+160 2 R        A Time to Kill
+161 1 PG13     The First Wives Club
+162 2 PG       Phenomenon
+163 3 R        Scream
+164 2 R        Eraser
+165 3 G        The Hunchback of Notre Dame
+166 3 PG13     Michael
+167 2 PG       Star Trek: First Contact
+168 2 PG       Space Jam
+169 5 R        The English Patient
+170 3 R        Broken Arrow
+171 2 PG13     Beavis and Butt-Head Do America
+172 2 PG       Jingle All the Way
+173 1 PG13     The Cable Guy
+174 2 R        Courage Under Fire
+175 3 PG       Jack
+176 3 R        Executive Decision
+177 3 R        Primal Fear
+178 2 R        Tin Cup
+179 2 R        Sleepers
+180 1 PG13     Dragonheart
+181 2 PG       Up Close and Personal
+182 3 PG13     Evita
+183 2 PG       The Preacher's Wife
+184 4 PG13     William Shakespeare's Romeo + Juliet
+185 3 PG       One Fine Day
+186 2 PG       The Mirror Has Two Faces
+187 4 PG13     Happy Gilmore
+188 2 R        The Ghost and the Darkness
+189 1 PG13     Mars Attacks!
+190 1 R        Set It Off
+191 2 PG13     Shine
+192 3 PG       The Truth About Cats and Dogs
+193 3 PG13     A Thin Line Between Love and Hate
+194 2 PG       Muppet Treasure Island
+195 2 PG       Matilda
+196 1 R        The Long Kiss Goodnight
+197 3 R        Striptease
+198 1 PG13     Daylight
+199 3 PG       Homeward Bound II: Lost in San Francisco
+200 4 PG13     Black Sheep
+201 5 G        Toy Story
+202 1 PG13     Batman Forever
+203 3 PG13     Apollo 13
+204 3 G        Pocahontas
+205 2 PG13     Ace Ventura: When Nature Calls
+206 2 PG13     Goldeneye
+207 3 PG       Jumanji
+208 2 PG       Casper
+209 4 R        Seven: Two-Disc Platinum Series
+210 2 R        Die Hard With a Vengeance
+211 3 R        Crimson Tide
+212 1 PG13     Waterworld
+213 1 R        Dangerous Minds
+214 4 PG13     Mr. Holland's Opus
+215 2 PG13     While You Were Sleeping
+216 1 PG13     Congo
+217 2 PG13     Father of the Bride Part II
+218 4 R        Braveheart
+219 3 R        Get Shorty
+220 2 PG13     Grumpier Old Men
+221 2 R        The Bridges of Madison County
+222 1 PG13     Mortal Kombat
+223 2 PG13     Nine Months
+224 4 R        Outbreak
+225 3 PG13     Waiting to Exhale
+226 4 R        Heat
+227 2 R        Bad Boys
+228 3 PG       Babe
+229 4 PG       The American President
+230 2 R        Species
+231 3 R        Twelve Monkeys
+232 2 PG13     Clueless
+233 2 PG       Sabrina
+234 2 PG13     Something to Talk About
+235 1 PG13     The Net
+236 1 PG13     Under Siege 2: Dark Territory
+237 2 PG13     A Walk in the Clouds
+238 1 PG13     The Brady Bunch Movie
+239 2 PG       Sense and Sensibility
+240 5 R        Casino
+241 2 PG       Man of the House
+242 3 R        Dead Man Walking
+243 2 R        French Kiss
+244 2 R        Higher Learning
+245 1 PG       Mighty Morphin Power Rangers: The Movie
+246 2 PG       First Knight
+247 3 R        Just Cause
+248 1 PG13     To Wong Foo, Thanks for Everything! Julie Newmar
+249 3 PG       The Indian in the Cupboard
+250 2 R        Money Train
+251 5 PG13     Forrest Gump
+252 4 G        The Lion King
+253 1 R        True Lies
+254 2 PG       The Santa Clause
+255 2 PG       The Flintstones
+256 3 PG13     Dumb & Dumber
+257 4 PG13     Clear and Present Danger
+258 2 R        Speed
+259 2 PG13     The Mask
+260 3 R        Pulp Fiction
+261 2 R        Interview With the Vampire
+262 1 PG13     Maverick
+263 2 PG13     The Client
+264 1 R        Disclosure
+265 2 PG       Star Trek Generations
+266 3 PG13     Ace Ventura: Pet Detective
+267 2 PG13     Stargate
+268 3 R        Legends of the Fall
+269 1 R        Wolf
+270 2 R        The Specialist
+271 2 R        Four Weddings and a Funeral
+272 3 PG       The Little Rascals
+273 3 PG13     Naked Gun 33 1/3: The Final Insult
+274 2 R        The Crow
+275 1 R        Natural Born Killers
+276 2 PG       Angels in the Outfield
+277 3 PG       Little Women
+278 1 PG       When a Man Loves a Woman
+279 3 PG13     The River Wild
+280 2 PG       D2: The Mighty Ducks
+281 1 R        Timecop
+282 2 PG13     City Slickers II: The Legend of Curly's Gold
+283 3 G        The Jungle Book
+284 3 R        Beverly Hills Cop III
+285 2 PG13     Nobody's Fool
+286 3 PG13      On Deadly Ground
+287 2 PG       Richie Rich
+288 1 PG13     It Could Happen to You
+289 2 PG       The Paper
+290 1 PG13     Junior
+291 2 PG       Nell
+292 1 PG13     Street Fighter
+293 2 PG13     The Shadow
+294 3 PG13     I Love Trouble
+295 1 PG13     Major League II
+296 2 PG       Blank Check
+297 3 R        Blown Away
+298 4 R        Low Down Dirty Shame
+299 3 PG13     In the Army Now
+300 2 R        Drop Zone
+301 4 PG13     Jurassic Park
+302 3 PG13     Mrs. Doubtfire
+303 3 PG13     The Fugitive
+304 3 R        The Firm
+305 2 PG13     Sleepless in Seattle
+306 2 R        Indecent Proposal
+307 2 R        In the Line of Fire
+308 3 PG13     The Pelican Brief
+309 5 R        Schindler's List
+310 1 R        Cliffhanger
+311 2 PG       Free Willy
+312 3 PG13     Philadelphia
+313 5 PG       Groundhog Day
+314 2 PG13     Grumpy Old Men
+315 3 PG       Cool Runnings
+316 4 PG       Dave
+317 2 R        Rising Sun
+318 1 R        Demolition Man
+319 1 PG       Sister Act 2: Back in the Habit
+320 3 R        Tombstone
+321 2 PG13     The Three Musketeers
+322 1 PG       Beethoven's 2nd
+323 2 PG       Rookie of the Year
+324 2 PG       Dennis the Menace
+325 3 R        Sommersby
+326 2 PG13     Last Action Hero
+327 2 PG13     Red Dawn
+328 3 PG       The Nightmare Before Christmas
+329 2 PG13     Addams Family Values
+330 3 PG13     Wayne's World 2
+331 3 R        Malice
+332 2 PG13     Made in America
+333 2 R        The Good Son
+334 1 PG       Teenage Mutant Ninja Turtles III
+335 2 PG13     The Beverly Hillbillies
+336 2 PG       Homeward Bound: The Incredible Journey
+337 3 G        Snow White and the Seven Dwarfs
+338 3 R        Falling Down
+339 3 R        The Piano
+340 2 PG       Hocus Pocus
+341 2 PG       What's Love Got to Do With It
+342 3 PG13     Hot Shots! Part Deux
+343 2 R        Carlito's Way
+344 3 R        Alive
+345 1 PG13     Son-in-Law
+346 1 R        Sliver
+347 2 PG13     Robin Hood: Men in Tights
+348 3 R        Dragon: The Bruce Lee Story
+349 2 R        The Joy Luck Club
+350 2 R        Hard Target
+351 1 PG13     The Age of Innocence
+352 3 G        Aladdin
+353 2 PG       Home Alone 2: Lost in New York
+354 2 PG13     Batman Returns
+355 2 R        Lethal Weapon 3
+356 2 R        A Few Good Men
+357 2 PG       Sister Act
+358 3 PG13     The Bodyguard
+359 3 PG13     Wayne's World
+360 5 R        Basic Instinct
+361 2 PG13     A League of Their Own
+362 3 R        Unforgiven
+363 2 R        The Hand That Rocks the Cradle
+364 1 R        Under Siege
+365 2 R        Patriot Games
+366 2 R        Bram Stoker's Dracula
+367 3 R        The Last of the Mohicans
+368 1 R        White Men Can't Jump
+369 2 R        Boomerang
+370 4 R        Scent of a Woman
+371 2 R        The Crying Game
+372 2 PG       Housesitter
+373 2 PG13     Far and Away
+374 1 PG       Honey, I Blew Up the Kid
+375 2 PG13     Death Becomes Her
+376 2 PG       Beethoven
+377 2 R        Unlawful Entry
+378 2 PG       Forever Young
+379 2 R        Alien 3
+380 1 PG       Sneakers
+381 2 R        My Cousin Vinny
+382 2 PG       The Mighty Ducks
+383 2 PG13     Single White Female
+384 2 PG13     Malcolm X
+385 2 PG13     The Distinguished Gentleman
+386 3 PG13     Medicine Man
+387 2 R        Passenger 57
+388 3 PG13     A River Runs Through It
+389 2 PG       Encino Man
+390 2 R        Mo' Money
+391 1 R        Universal Soldier
+392 2 PG13     Honeymoon in Vegas
+393 3 PG13     The Lawnmower Man
+394 2 R        Stephen King's Sleepwalkers
+395 2 PG       3 Ninjas
+396 2 PG13     Stop! or My Mom Will Shoot
+397 3 PG       Final Analysis
+398 2 PG       The Muppet Christmas Carol
+399 1 PG13     Howards End
+400 2 R        Candyman
+401 2 PG13     The Cutting Edge
+402 5 R        Terminator 2: Judgment Day
+403 3 PG13     Robin Hood: Prince of Thieves
+404 3 G        Beauty and the Beast
+405 4 R        The Silence of the Lambs
+406 3 PG13     City Slickers
+407 2 PG       Hook
+408 2 PG13     The Addams Family
+409 3 R        Sleeping With the Enemy
+410 2 PG13     Father of the Bride
+411 3 PG13     The Naked Gun 2 1/2: The Smell of Fear
+412 3 R        Fried Green Tomatoes
+413 1 R        Cape Fear
+414 1 PG       Teenage Mutant Ninja Turtles II: The Secret of the Ooze
+415 3 R        Backdraft
+416 2 PG       Star Trek VI: The Undiscovered Country
+417 3 R        The Prince of Tides
+418 4 R        JFK
+419 3 PG13     Hot Shots
+420 3 PG13     What About Bob?
+421 2 G        101 Dalmatians (reissue)
+422 3 PG       My Girl
+423 1 R        The Last Boy Scout
+424 2 R        Boyz N the Hood
+425 2 PG13     Doc Hollywood
+426 2 R        New Jack City
+427 3 PG       The Rocketeer
+428 3 R        Thelma & Louise
+429 2 PG13     Regarding Henry
+430 2 PG       The Fisher King
+431 3 PG13     Point Break
+432 2 PG13     Out for Justice
+433 2 R        The Doctor
+434 2 PG13     Dead Again
+435 3 PG13     Bill & Ted's Bogus Journey
+436 2 PG       Soapdish
+437 1 R        Freddy's Dead: The Final Nightmare
+438 2 PG       White Fang
+439 3 R        The Doors
+440 2 PG       King Ralph
+441 3 PG       Curly Sue
+442 3 PG       Jungle Fever
+443 2 PG       Grand Canyon
+444 3 PG13     Dying Young
+445 2 PG13     Double Impact
+446 2 R        L.A. Story
+447 2 PG13     Deceived
+448 3 R        Necessary Roughness
+449 2 PG13     The Hard Way
+450 1 R        Other People's Money
+451 2 PG13     Don't Tell Mom the Babysitter's Dead
+452 3 PG       Home Alone
+453 2 PG13     Ghost
+454 3 PG13     Dances With Wolves
+455 3 R        Pretty Woman
+456 3 PG       Teenage Mutant Ninja Turtles
+457 4 R        The Hunt for Red October
+458 2 R        Total Recall
+459 2 R        Die Hard 2: Die Harder
+460 2 PG13     Dick Tracy
+461 3 PG13     Kindergarten Cop
+462 2 PG       Back to the Future Part III
+463 3 R        Presumed Innocent
+464 2 PG13     Days of Thunder
+465 2 R        Another 48 Hrs.
+466 2 PG13     3 Men and a Little Lady
+467 2 R        Bird on a Wire
+468 2 R        The Godfather, Part III
+469 2 R        Flatliners
+470 3 R        Misery
+471 3 PG13     Edward Scissorhands
+472 2 PG       Problem Child
+473 3 PG13     Arachnophobia
+474 2 PG       Awakenings
+475 2 PG13     Look Who's Talking Too
+476 3 R        Hard to Kill
+477 4 R        Goodfellas
+478 2 R        Robocop 2
+479 3 G        The Jungle Book
+480 3 R        Marked for Death
+481 3 PG       Gremlins 2: The New Batch
+482 2 PG13     Rocky V
+483 2 PG13     Young Guns II
+484 2 PG13     Joe Versus the Volcano
+485 3 R        Postcards From the Edge
+486 2 PG13     Mermaids
+487 2 R        Darkman
+488 3 R        Air America
+489 2 R        Green Card
+490 1 R        Child's Play 2
+491 2 R        Predator 2
+492 2 G        The Rescuers Down Under
+493 3 PG13     Pacific Heights
+494 4 PG       Internal Affairs
+495 3 PG       Memphis Belle
+496 2 R        Cadillac Man
+497 3 R        House Party
+498 2 PG       Jacob's Ladder
+499 5 G        Fantasia 2000
+500 2 PG       Ernest Goes to Jail
+501 1 R        The Exorcist III
+502 3 PG13     Batman
+503 3 PG       Indiana Jones and the Last Crusade
+504 2 R        Lethal Weapon 2
+505 2 PG13     Look Who's Talking
+506 3 PG       Honey, I Shrunk the Kids
+507 3 PG       Back to the Future Part II
+508 3 PG       Ghostbusters Ii
+509 4 G        The Little Mermaid
+510 3 PG       Driving Miss Daisy
+511 2 PG13     Parenthood
+512 4 PG13     Dead Poets Society
+513 2 PG       When Harry Met Sally...
+514 3 PG13     The War of the Roses
+515 4 PG13     Steel Magnolias
+516 3 PG13     National Lampoon's Christmas Vacation
+517 3 PG       Turner & Hooch
+518 3 PG       Born on the Fourth of July
+519 2 PG       Uncle Buck
+520 3 PG13     Field of Dreams
+521 2 PG13     Tango and Cash
+522 2 R        Harlem Nights
+523 2 PG13     Sea of Love
+524 3 R        Pet Sematary
+525 4 PG       The Abyss
+526 2 PG       Star Trek V: The Final Frontier
+527 4 R        See No Evil, Hear No Evil
+528 3 R        Major League
+529 2 R        Black Rain
+530 1 PG13     Always
+531 1 PG       K-9
+532 3 PG       Three Fugitives
+533 2 PG13     Bill & Ted's Excellent Adventure
+534 2 PG       The Karate Kid Part III
+535 3 R        The 'burbs
+536 2 PG13     Fletch Lives
+537 4 PG       Licence to Kill
+538 3 PG13     The Bear
+539 2 PG13     Road House
+540 2 PG       Lean on Me
+541 3 PG13     Weekend at Bernie's
+542 2 G        Peter Pan
+543 3 PG       The Dream Team
+544 2 PG13     Do the Right Thing
+545 3 G        All Dogs Go to Heaven
+546 2 PG13     Glory
+547 2 R        Sex, Lies, and Videotape
+548 1 R        A Nightmare on Elm Street 5: The Dream Child
+549 3 PG       Dad
+550 2 PG13     Lock Up
+551 2 PG       Cousins
+552 2 R        Rain Man
+553 3 PG       Who Framed Roger Rabbit
+554 2 PG13     Coming to America
+555 2 PG       Big
+556 1 PG       Twins
+557 2 PG       "Crocodile" Dundee II
+558 2 R        Die Hard
+559 3 PG13     The Naked Gun: From the Files of Police Squad!
+560 2 R        Cocktail
+561 2 G        Oliver & Company
+562 4 PG13     Beetlejuice
+563 2 PG       A Fish Called Wanda
+564 2 R        Working Girl
+565 3 R        Scrooged
+566 2 PG13     Willow
+567 1 PG13     Beaches
+568 2 R        Rambo III
+569 3 R        Bull Durham
+570 1 R        A Nightmare on Elm Street 4: The Dream Master
+571 3 G        The Land Before Time
+572 2 PG13     Colors
+573 2 PG       Biloxi Blues
+574 3 PG       Young Guns
+575 2 PG13     The Great Outdoors
+576 2 PG13     Dirty Rotten Scoundrels
+577 3 R        Big Business
+578 2 R        Tequila Sunrise
+579 4 G        Bambi
+580 3 R        Midnight Run
+581 2 R        The Dead Pool
+582 2 PG13     Red Heat
+583 3 PG13     Mississippi Burning
+584 1 R        Child's Play
+585 2 R        Dangerous Liaisons
+586 2 PG13     The Accused
+587 2 PG13     The Accidental Tourist
+588 4 PG13     The Gods Must Be Crazy
+589 3 PG13     Shoot to Kill
+590 2 PG       Ernest Saves Christmas
+591 3 PG13     Betrayed
+592 2 PG       Funny Farm
+593 3 R        Gorillas in the Mist
+594 2 PG13     Alien Nation
+595 4 G        The Fox and the Hound
+596 3 PG13     Punchline
+597 2 PG13     Married to the Mob
+598 2 PG13     License to Drive
+599 3 PG       Short Circuit 2
+600 2 R        The Presidio
+601 2 R        Tucker: The Man and His Dream
+602 3 PG13     3 Men and a Baby
+603 2 R        Fatal Attraction
+604 3 R        Beverly Hills Cop II
+605 4 PG13     Good Morning, Vietnam
+606 4 PG13     Moonstruck
+607 2 PG13     The Untouchables
+608 2 PG13     The Secret of My Success
+609 2 R        Stakeout
+610 3 R        Lethal Weapon
+611 2 PG13     The Witches of Eastwick
+612 3 PG13     Dirty Dancing
+613 2 PG13     Throw Momma From the Train
+614 2 PG13     Dragnet
+615 3 R        Predator
+616 3 PG13     La Bamba
+617 2 R        Robocop
+618 2 PG13     Outrageous Fortune
+619 4 PG       The Living Daylights
+620 3 R        Eddie Murphy: Raw
+621 5 R        Planes, Trains, and Automobiles
+622 2 PG       Broadcast News
+623 4 G        Snow White and the Seven Dwarfs
+624 3 R        Full Metal Jacket
+625 1 R        A Nightmare on Elm Street 3: Dream Warriors
+626 2 R        The Last Emperor
+627 3 R        Wall Street
+628 2 PG13     Blind Date
+629 3 PG13     Roxanne
+630 2 R        The Running Man
+631 5 PG13     Spaceballs
+632 2 PG       Mannequin
+633 2 R        Summer School
+634 3 R        No Way Out
+635 2 PG13     Like Father, Like Son
+636 2 PG13     Adventures in Babysitting
+637 3 G        Cinderella
+638 3 PG       *batteries not included
+639 3 R        The Lost Boys
+640 3 PG13     Can't Buy Me Love
+641 1 PG13     Nuts
+642 3 PG       Harry and the Hendersons
+643 2 PG13     Police Academy 4: Citizens on Patrol
+644 3 PG       The Princess Bride
+645 3 PG13     Overboard
+646 3 PG       Baby Boom
+647 3 R        Revenge of the Nerds II: Nerds in Paradise
+648 2 PG13     Innerspace
+649 2 R        Tin Men
+650 2 PG       Ernest Goes to Camp
+651 3 R        Black Widow
+652 5 PG13     Top Gun
+653 2 PG       "Crocodile" Dundee
+654 4 R        Platoon
+655 2 PG       The Karate Kid Part II
+656 1 PG       Star Trek IV: The Voyage Home
+657 3 R        Back to School
+658 2 R        Aliens
+659 1 PG       The Golden Child
+660 2 PG13     Ruthless People
+661 3 PG13     Ferris Bueller's Day Off
+662 2 R        Down and Out in Beverly Hills
+663 3 R        The Color of Money
+664 2 PG13     Stand by Me
+665 2 PG13     Legal Eagles
+666 2 PG       Cobra
+667 3 G        An American Tail
+668 2 PG       Police Academy 3: Back in Training
+669 2 PG13     Heartbreak Ridge
+670 3 PG       Peggy Sue Got Married
+671 2 PG       Poltergeist II
+672 3 PG       Short Circuit
+673 3 PG13     Pretty in Pink
+674 4 PG       Hannah and Her Sisters
+675 3 PG13     Three Amigos
+676 2 PG13     About Last Night
+677 2 PG       Little Shop of Horrors
+678 2 PG       Running Scared
+679 3 PG       The Money Pit
+680 2 PG13     Gung Ho
+681 4 R        The Fly
+682 3 PG13     Nothing in Common
+683 3 PG13     Children of a Lesser God
+684 3 G        Lady and the Tramp
+685 1 PG13     Hoosiers
+686 2 PG       Soul Man
+687 3 PG       Wildcats
+688 2 PG13     Jumpin' Jack Flash
+689 2 G        The Great Mouse Detective
+700 1 PG13     Heartburn
+701 2 PG13     Iron Eagle
+702 3 PG13     The Morning After
+703 2 R        Crimes of the Heart
+704 2 R        Tough Guys
+705 2 PG       A Room With a View
+706 2 PG13     F/X
+707 1 R        Friday the 13th Part VI: Jason Lives
+708 2 PG       Flight of the Navigator
+709 2 PG       House
+710 2 PG13     Jo Jo Dancer, Your Life Is Calling
+711 2 PG13     The Delta Force
+712 4 PG       Back to the Future
+713 2 R        Rambo: First Blood, Part II
+714 2 PG13     Rocky IV
+715 2 R        The Color Purple
+716 2 PG13     Out of Africa
+717 3 PG       Cocoon
+718 2 PG       Witness
+719 3 PG13     The Jewel of the Nile
+720 4 PG       The Goonies
+721 3 PG13     Spies Like Us
+722 2 PG       Police Academy 2: Their First Assignment
+723 4 PG13     Fletch
+724 3 PG13     A View to a Kill
+725 4 PG13     National Lampoon's European Vacation
+726 2 PG13     Mask
+727 3 PG13     The Breakfast Club
+728 2 PG13     White Nights
+729 1 PG13     Pale Rider
+730 3 PG       Pee-Wee's Big Adventure
+731 2 PG       Brewster's Millions
+732 4 PG       E.T. the Extra-Terrestrial
+733 1 R        Jagged Edge
+734 2 R        Commando
+735 3 R        St. Elmo's Fire
+736 2 R        Mad Max Beyond Thunderdome
+737 3 PG       Teen Wolf
+738 3 G        101 Dalmatians (reissue)
+739 2 R        Silverado
+730 2 PG13     Murphy's Romance
+741 1 R        A Nightmare on Elm Street Part 2: Freddy's Revenge
+742 3 PG13     Desperately Seeking Susan
+743 4 PG       Ghostbusters
+744 2 PG       Prizzi's Honor
+745 3 PG13     The Last Dragon
+746 2 PG       Agnes of God
+747 3 PG13     Fright Night
+748 2 PG       Summer Rental
+749 2 PG13     The Emerald Forest
+750 2 PG13     Weird Science
+751 1 PG       Santa Claus: The Movie
+752 1 G        The Care Bears Movie
+753 2 G        The Black Cauldron
+754 2 R        Friday the 13th, Part V ? A New Beginning
+755 4 R        Porky's Revenge
+756 3 PG13     Code of Silence
+757 2 PG       Volunteers
+758 2 PG       Young Sherlock Holmes
+759 3 PG       Year of the Dragon
+760 3 PG       Ladyhawke

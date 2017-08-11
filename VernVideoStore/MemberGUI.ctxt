@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MemberGUI
+comment1.params=vM\ name
+comment1.target=void\ createAndShowGUI(VernMain,\ java.lang.String)
+comment2.params=pane\ main\ name
+comment2.target=void\ addComponentToPane(java.awt.Container,\ VernMain,\ java.lang.String)
+numComments=3

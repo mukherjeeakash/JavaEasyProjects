@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=RentedMovie
+comment1.params=id\ stock\ rate\ movie
+comment1.target=RentedMovie(int,\ int,\ java.lang.String,\ java.lang.String)
+numComments=2
